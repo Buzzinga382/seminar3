@@ -4,6 +4,10 @@ Hey wazzup
 
 **Half bold**
 
+* One
+* Two
+* Three
+
 new text.
 dfafaff
 gagadgadf
