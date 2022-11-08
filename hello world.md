@@ -2,6 +2,8 @@ Hey wazzup
 
 *Coursive*
 
+**Half bold**
+
 new text.
 dfafaff
 gagadgadf
