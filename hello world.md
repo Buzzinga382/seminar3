@@ -1,8 +1,14 @@
+# First version control file
+
+## Text marking
+
 Hey wazzup
 
 *Coursive*
 
 **Half bold**
+
+## Lists
 
 * One
 * Two
