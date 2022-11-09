@@ -18,12 +18,9 @@ Hey wazzup
 2. Second
 3. Third
 
-new text.
-dfafaff
-gagadgadf
-agadgadfds
-fafadgagg
+# Git Commands for Terminal
 
-new lines yopta
+## Cheching if Git is installed
 
-delay check
+git --version
+
