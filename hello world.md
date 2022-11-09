@@ -2,8 +2,6 @@
 
 ## Text marking
 
-Hey wazzup
-
 *Coursive*
 
 **Half bold**
