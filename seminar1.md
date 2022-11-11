@@ -85,5 +85,9 @@
 
         git checkout 'hash'
 
+2. Возвращение к последней версии репозитория (к ветке master):
+
+        git checkout master
+
 
 
