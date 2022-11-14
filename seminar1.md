@@ -1,4 +1,5 @@
 # **Git instruction**
+![Git Logo](git.png)
 
 ## Предварительная настройка Git
 
